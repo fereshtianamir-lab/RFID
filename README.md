@@ -19,13 +19,13 @@ UHF RFID tag design and characterization in the European band (~866 MHz): passiv
 <tr><td align="center"><a href="Media/rfid_antenna_impedance_vna_setup.jpg"><img src="Media/rfid_antenna_impedance_vna_setup.jpg" width="720" alt="RFID tag antenna impedance measurement with a VNA"></a><br><b>Measurement setup of the RFID antenna impedance using a VNA</b></td></tr>
 </table>
 
-The tag antenna is balanced, so its impedance is measured differentially using a fixture soldered to the antenna terminals (where the chip is placed) and connected to ports 1 and 2 of an R&S ZNL3 vector network analyzer. The differential impedance is calculated from the measured two-port S-parameters and compared with the chip impedance to evaluate the antenna–chip matching. A polystyrene foam box keeps the tag away from the bench so that it does not detune the antenna.
+The tag antenna is balanced, so its impedance is measured differentially: two coaxial pigtails are soldered to the antenna terminals (where the chip is placed) and connected to ports 1 and 2 of an R&S ZNL3 vector network analyzer. The differential impedance is calculated from the measured two-port S-parameters and compared with the chip impedance to evaluate the antenna–chip matching. A polystyrene foam box keeps the tag away from the bench so that it does not detune the antenna.
 
 ### Anechoic chamber characterization
 
 <table>
 <tr>
-<td align="center" width="50%"><a href="Media/rfid_tag_anechoic_chamber_setup.jpg"><img src="Media/rfid_tag_anechoic_chamber_setup.jpg" width="360" alt="RFID tag measurement setup in the anechoic chamber"></a><br><b>Tag measurement in the anechoic chamber</b></td>
+<td align="center" width="50%"><a href="Media/rfid_tag_anechoic_chamber.jpg"><img src="Media/rfid_tag_anechoic_chamber.jpg" width="360" alt="RFID tag measurement setup in the anechoic chamber"></a><br><b>Tag measurement in the anechoic chamber</b></td>
 <td align="center" width="50%"><a href="Media/anechoic_chamber_characterization_day.jpg"><img src="Media/anechoic_chamber_characterization_day.jpg" width="360" alt="Amir Fereshtian in the anechoic chamber next to the tag under test"></a><br><b>The day of antenna performance characterization in the anechoic chamber</b></td>
 </tr>
 <tr>
